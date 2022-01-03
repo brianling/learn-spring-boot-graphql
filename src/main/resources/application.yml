@@ -6,6 +6,7 @@ spring:
       max-file-size: 2MB
 
 server:
+  port: 8093
   http2:
     enabled: true
 
